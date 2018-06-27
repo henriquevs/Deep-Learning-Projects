@@ -1,4 +1,4 @@
-#Course 3 — Structuring Machine Learning Projects
+# Course 3  - Structuring Machine Learning Projects
 
 This is a short two week optional course focusing on helping students how to structure a deep learning project. There was no programming assignment but it was full of expert tips on deep learning that you won’t find elsewhere, for example:
 
