@@ -1,6 +1,6 @@
 # Week 1 Exercises
 
-Week 1- foundation of CNN.
+Week 1 - foundation of CNN.
 
 Learned about the terminologies used in CNN such as padding, stride and filter etc, basic operations of CNN such as pooling, and how to build multi-class classification using CNN. There were two homework assignments : 
 
