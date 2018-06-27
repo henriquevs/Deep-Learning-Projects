@@ -1,5 +1,7 @@
 # Week 4 Exercises
 
+Week 4 — Deep neural network.
+
 Exercises completed during the fourth week of the course:
-* Exercise-1
-* Exercise-2
+
+* Build a two layer neural network to recognize whether an image is a cat.
