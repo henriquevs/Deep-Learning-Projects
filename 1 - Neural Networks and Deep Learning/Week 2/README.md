@@ -2,4 +2,4 @@
 
 Exercises completed during the second week of the course:
 * Python Basics with numpy (optional)
-* Logistic Regression with a Neural Network mindset (1 neuron only)
+* Build a simple image recognition classifier with logistics regression (1 neuron only). The network recognizes whether an image is a cat.
